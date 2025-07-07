@@ -1,0 +1,16 @@
+Potential Bias:
+- Most AI models trained on datasets like TCGA are biased toward white, high-income patients.
+- Underrepresentation of African, Asian, and Latinx populations.
+
+Consequences:
+- Treatment recommendations risk being less effective for minorities.
+- Mistrust in AI-powered healthcare tools.
+- Exacerbation of healthcare inequalities.
+
+Fairness Strategies:
+- Balance datasets by seeking global collaborations.
+- Use subgroup-specific accuracy and bias audits.
+- Apply AI bias mitigation techniques (re-weighting, oversampling minorities).
+- Demand model explainability before clinical use.
+
+Ethical AI in medicine must prioritize equity and patient safety equally.

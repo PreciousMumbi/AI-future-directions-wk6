@@ -1,0 +1,30 @@
++------------------+
+|  Sensor Network   |
+| (Moisture, Temp,  |
+|  Humidity, Light) |
++------------------+
+         |
+         v
++------------------+
+|   IoT Gateway     |
+| (Raspberry Pi /   |
+|  Edge Device)     |
++------------------+
+         |
+         v
++------------------+
+| AI Model (Tensor- |
+|  Flow Regression) |
++------------------+
+         |
+         v
++------------------+
+| Predicted Crop    |
+| Yield Dashboard   |
++------------------+
+         |
+         v
++------------------+
+| Farmer's Mobile / |
+| Web Interface     |
++------------------+
